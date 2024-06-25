@@ -1,23 +1,23 @@
-Recommended YouTube Channel for solving tutorials: "NeetCode"
-
-1. Standard Time for Solving LeetCode Problems:
-   Easy: 15-20 minutes
-   Medium: 30 minutes
-   Hard: 40-60 minutes
-
 # If you want to solve problems based on the patterns most frequently asked in tech company interviews, then "Blind 75 & NeetCode 150" are for you.
 
 1. Blind 75: List of the 75 essential LeetCode algorithms problems.(Curated by Yangshun, a former Meta staff engineer)
-   Easy: 19
-   Medium: 49
-   Hard: 7
+   Easy: 19,
+   Medium: 49,
+   Hard: 7.
 2. NeetCode 150: Expands on Blind 75 with 75 more problems.
-   Easy: 28
-   Medium: 101
-   Hard: 21
+   Easy: 28,
+   Medium: 101,
+   Hard: 21.
 
 "Blind 75" vs "NeetCode 150" -> Blind 75 offers a solid foundation with essential LeetCode problems But "NeetCode 150" expands this palette, covering a wider array of patterns and topics!
 
+Recommended YouTube Channel for solving tutorials: "NeetCode"
+
+Standard Time for Solving LeetCode Problems:
+1. Easy: 15-20 minutes
+2. Medium: 30 minutes
+3. Hard: 40-60 minutes
+   
 # DSA Topics and Problem Distribution:
 
 1. Arrays & Hashing: NeetCode (9), Blind (8)
