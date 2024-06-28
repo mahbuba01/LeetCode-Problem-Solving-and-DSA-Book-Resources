@@ -41,4 +41,25 @@ Standard Time for Solving LeetCode Problems:
 
 -> Here the problem topics are listed along with the number of problems in each topic. For example, there are 9 problems in Arrays & Hashing where Blind has 8, but NeetCode has 9, that means there are 8 common problems.
 
-# Important DSA: BFS & DFS, Sliding window, Top K elements, Linked list, Stack, Queue, DP, Array, String, Searching, Sorting, Backtracking, Trie, Bit manipulation, Graph, BST.
+
+Important DSA: BFS & DFS, Sliding window, Top K elements, Linked list, Stack, Queue, DP, Array, String, Searching, Sorting, Backtracking, Trie, Bit manipulation, Graph, BST.
+
+
+# Some of the Most Important patterns that are frequently asked in Interviews and OAs:
+
+1. Sliding Window (Fixed sized window and variable sized window questions on array and string)
+2. Island problems(DFS/BFS or different traversals on grid)
+3. Two Pointers, Fast and Slow pointer 
+4. Merge Intervals
+5. Cyclic Sort(Very important)
+6. DFS and BFS
+7. Two Heaps Problems(Find median in a stream problem)
+8. Subset Problems
+9. Subarray/Substring problems using Hashing
+10. Binary Search
+11. Bitwise XOR(Common asked question in many OAs)
+12. Top k elements
+13. K way merge
+14. Topological Sort
+15. Bit Manipulation
+16. Number Theory
