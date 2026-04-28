@@ -1,3 +1,161 @@
+# Series: LeetCode
+
+Part 1
+
+How to Become a Cracked LeetCoder?
+
+1. Pattern Recognition, Pick DSA
+
+Learn to quickly identify the pattern of a problem. Knowing only brute force isn’t enough; you must know when and why to use a specific DSA. So check constraints before deciding.
+
+For example, if n = 10⁵ and you need repeated subarray sums, O(n²) brute force will time out. Use Fenwick Tree (BIT) if updates, Prefix Sum if static to get sums efficiently. (Part 2: check it out)
+
+2. Solve problems from the last 25-30 contests.
+
+3. Use fast I/O templates if doing contests in C++ or Java.
+
+Keep ready templates for:
+
+• Fast I/O
+
+• BFS / DFS
+
+• DSU (Union Find)
+
+• Binary Search
+
+• Prefix Sum / Hash / Map / Set
+
+4. Early Problems First
+
+Solve easy & medium problems ASAP (within 10-20 mins).
+
+5. Don’t get stuck in hard problem initially — waste of time.
+
+6. Speed + Accuracy
+
+First 2 problems must be solved within 10-15 mins.
+
+But for beginners: Try to solve the first 2 problems within 10-15 mins.
+
+7. Aim for full solve or 3/4 solves to gain significant rating.
+
+8. Debugging Skills
+
+Practice finding bugs quickly.
+
+9. One wrong submission can kill your rank — test locally if possible.
+
+10. After Contests
+
+• Read editorials for unsolved problems.
+
+• Analyze your mistakes. Check why you failed a problem: Was it logic, speed or implementation?
+
+• Don’t stop just because your solution got accepted. If your solution is O(n²), see if it can be improved to O(n log n).
+
+11. Master These Topics
+
+To reach 2500+, You need to be fast in:
+
+• Prefix Sum / Binary Search / Sliding Window
+
+• Two Pointers / Stack & Queue / Monotonic Stack
+
+• Hashing / Maps / Sets
+
+• DFS/BFS / Union-Find / Graph
+
+• DP — must-do!
+
+• Greedy + Heap + Backtracking
+
+• Tree Algorithms
+
+• Segment Tree / Fenwick Tree (optional)
+
+• Math / Combinatorics
+
+• Bit Manipulation
+
+
+Part 2
+
+2.1: Must-know 7 LeetCode Patterns
+
+1. Sliding Window
+
+Problem Keywords: subarray, substring, contiguous elements, window size k, longest / shortest substring.
+
+Example use:
+
+• Longest substring without repeating characters
+
+• Maximum sum subarray of size k
+
+2. Two Pointers
+
+Problem Keywords: sorted array, pair sum, remove duplicates, opposite direction scanning, left/right pointer.
+
+Example use:
+
+• Pair with target sum
+
+• Remove duplicates
+
+• Container with most water
+
+3. Prefix Sum
+
+Problem Keywords: range sum, subarray sum, subarray sum equals k, cumulative sum.
+
+Example use:
+
+• Range sum queries
+
+• Subarray sum equals k
+
+4. Binary Search
+
+Problem Keywords: sorted array, find target, minimum / maximum possible value, search space, monotonic condition, search on answer.
+
+Example use:
+
+• Search in sorted array
+
+• Minimum feasible value problems
+
+5. Fast & Slow Pointers (also called Floyd's cycle detection)
+
+Problem Keywords: linked list cycle, find middle node, detect loop, remove cycle.
+
+Example use:
+
+• Linked list cycle detection
+
+• Find middle of linked list
+
+6. DFS (Depth First Search)
+
+Problem Keywords: graph traversal, tree traversal, recursion / stack, connected components, backtracking, island problems.
+
+Example use:
+
+• Graph traversal
+
+• Tree recursion
+
+7. BFS (Breadth First Search)
+
+Problem Keywords: shortest path in unweighted graph, minimum steps, level order traversal, queue, grid traversal.
+
+Example use:
+
+• Shortest path in unweighted graph
+
+• Tree level order traversal
+
+
 # If you want to solve problems based on the patterns most frequently asked in tech company interviews, then "Blind 75 & NeetCode 150" are for you.
 
 1. Blind 75: List of the 75 essential LeetCode algorithms problems.(Curated by Yangshun, a former Meta staff engineer)
