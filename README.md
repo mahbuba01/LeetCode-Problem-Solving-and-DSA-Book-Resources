@@ -155,6 +155,66 @@ Example use:
 
 • Tree level order traversal
 
+Part 2.2: Must-know 14 LeetCode Patterns
+
+8. Backtracking
+
+Problem Keywords: all combinations, all permutations, generate subsets, sudoku / n-queens, word search.
+
+Example use:
+• Subsets
+• Permutations
+• N-Queens
+
+9. Dynamic Programming (DP)
+
+Problem Keywords: maximum / minimum, count number of ways, optimal solution, overlapping subproblems.
+
+Example use:
+• Fibonacci
+• Longest Increasing Subsequence
+• Knapsack
+
+10. Greedy
+
+Problem Keywords: minimum number, maximum activities, interval selection, sorting + choose.
+
+Example use:
+• Interval scheduling
+• Minimum number of arrows to burst balloons
+
+11. Monotonic Stack
+
+Problem Keywords: next or previous greater / smaller element, largest rectangle in histogram, sliding window maximum / minimum, monotonic property.
+
+Example use:
+• Next greater element
+• Largest rectangle in histogram
+
+12. Heap / Priority Queue
+
+Problem Keywords: kth largest / smallest, top k / bottom k, merge k sorted lists / arrays, stream of numbers / running median, minimum / maximum repeatedly.
+
+Example use:
+• Kth largest element
+• Merge k sorted lists
+
+13. Union-Find (Disjoint Set)
+
+Problem Keywords: graph / connected components, cycle detection in undirected graph, friend groups / social network connections, union / merge / find operations, queries like “are x and y connected?”.
+
+Example use:
+• Detect cycle in graph
+• Number of connected components
+
+14. Topological Sort
+
+Problem Keywords: Directed Acyclic Graph (DAG), dependencies / prerequisites, course schedule / task scheduling, order of execution / linear ordering, no cycles / detect impossibility.
+
+Example use:
+• Course schedule
+• Dependency resolution
+
 
 # If you want to solve problems based on the patterns most frequently asked in tech company interviews, then "Blind 75 & NeetCode 150" are for you.
 
