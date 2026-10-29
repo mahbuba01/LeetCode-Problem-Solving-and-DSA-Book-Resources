@@ -1,8 +1,8 @@
 # Series: LeetCode
 
-Part 1
+### Part 1
 
-How to Become a Cracked LeetCoder?
+#### How to Become a Cracked LeetCoder?
 
 1. Pattern Recognition, Pick DSA
 
@@ -54,7 +54,7 @@ Practice finding bugs quickly.
 
 • Don’t stop just because your solution got accepted. If your solution is O(n²), see if it can be improved to O(n log n).
 
-11. Master These Topics
+#### 11. Master These Topics
 
 To reach 2500+, You need to be fast in:
 
@@ -79,9 +79,9 @@ To reach 2500+, You need to be fast in:
 • Bit Manipulation
 
 
-Part 2
+### Part 2
 
-Must-know 14 LeetCode Patterns
+#### Must-know 14 LeetCode Patterns
 
 1. Sliding Window
 
@@ -230,7 +230,7 @@ Example use:
 • Dependency resolution
 
 
-# If you want to solve problems based on the patterns most frequently asked in tech company interviews, then "Blind 75 & NeetCode 150" are for you.
+## If you want to solve problems based on the patterns most frequently asked in tech company interviews, then "Blind 75 & NeetCode 150" are for you.
 
 1. Blind 75: List of the 75 essential LeetCode algorithms problems.(Curated by Yangshun, a former Meta staff engineer)
    Easy: 19,
@@ -241,16 +241,18 @@ Example use:
    Medium: 101,
    Hard: 21.
 
-"Blind 75" vs "NeetCode 150" -> Blind 75 offers a solid foundation with essential LeetCode problems But "NeetCode 150" expands this palette, covering a wider array of patterns and topics!
+#### Blind 75" vs "NeetCode 150
+
+Blind 75 offers a solid foundation with essential LeetCode problems But "NeetCode 150" expands this palette, covering a wider array of patterns and topics!
 
 Recommended YouTube Channel for solving tutorials: "NeetCode"
 
-Standard Time for Solving LeetCode Problems:
+#### Standard Time for Solving LeetCode Problems
 1. Easy: 15-20 minutes
 2. Medium: 30 minutes
 3. Hard: 40-60 minutes
    
-# DSA Topics and Problem Distribution:
+### DSA Topics and Problem Distribution
 
 1. Arrays & Hashing: NeetCode (9), Blind (8)
 2. Two Pointers: NeetCode (5), Blind (3)
@@ -271,13 +273,15 @@ Standard Time for Solving LeetCode Problems:
 17. Math & Geometry: NeetCode (8), Blind (3)
 18. Bit Manipulation: NeetCode (7), Blind (5)
 
--> Here the problem topics are listed along with the number of problems in each topic. For example, there are 9 problems in Arrays & Hashing where Blind has 8, but NeetCode has 9, that means there are 8 common problems.
+Here the problem topics are listed along with the number of problems in each topic. For example, there are 9 problems in Arrays & Hashing where Blind has 8, but NeetCode has 9, that means there are 8 common problems.
 
 
-Important DSA: BFS & DFS, Sliding window, Top K elements, Linked list, Stack, Queue, DP, Array, String, Searching, Sorting, Backtracking, Trie, Bit manipulation, Graph, BST.
+#### Important DSA 
+
+BFS & DFS, Sliding window, Top K elements, Linked list, Stack, Queue, DP, Array, String, Searching, Sorting, Backtracking, Trie, Bit manipulation, Graph, BST.
 
 
-# Some of the Most Important patterns that are frequently asked in Interviews and OAs:
+## Some of the Most Important patterns that are frequently asked in Interviews and OAs
 
 1. Sliding Window (Fixed sized window and variable sized window questions on array and string)
 2. Island problems(DFS/BFS or different traversals on grid)
@@ -297,40 +301,26 @@ Important DSA: BFS & DFS, Sliding window, Top K elements, Linked list, Stack, Qu
 16. Number Theory
 
 
-# Best Books for DSA
-1. Data Structures & Algorithms:
+## Best Books for DSA
+
+1. Data Structures & Algorithms​
+
+[Grokking Algorithms](https://amzn.to/2JcBrjS​)
+
+[Introduction to Algorithms](https://amzn.to/2V03JRb​)
+
+[Elements of Programming Interviews (Python)](https://amzn.to/35XPQJw​)
+
+[Elements of Programming Interviews (Java)](https://amzn.to/374W5KT​)
+
+2. Software Engineering & Architecture
    
-Computer Science Distilled - https://amzn.to/39jYZ0S​
+[Clean Code](https://amzn.to/3nHNtAC)​
 
-Grokking Algorithms - https://amzn.to/2JcBrjS​
+[Clean Architecture](https://amzn.to/3kZ7UqR​)
 
-Introduction to Algorithms - https://amzn.to/2V03JRb​
+[Refactoring](https://amzn.to/377VXdM​)
 
-Elements of Programming Interviews (Python) - https://amzn.to/35XPQJw​
+3. Distributed Systems​
 
-Elements of Programming Interviews (Java) - https://amzn.to/374W5KT​
-
-2. Software Engineering & Architecture:
-   
-Clean Code - https://amzn.to/3nHNtAC​
-
-Clean Architecture - https://amzn.to/3kZ7UqR​
-
-Refactoring - https://amzn.to/377VXdM​
-
-The Productive Programmer - https://amzn.to/33aMeSE​
-
-Pragmatic Thinking & Learning - https://amzn.to/2J5IfzM​
-
-3. Distributed Systems:
-   
-Web Scalability for Startup Engineers - https://amzn.to/39c55QV​
-
-Designing Data Intensive Applications - https://amzn.to/3fxgOLm​
-
-Understanding Distributed Systems - https://amzn.to/3cjChr5​
-
-Software Engineering at Google - https://amzn.to/3rfJc8L​
-
-Building Microservices - https://amzn.to/2UUPsFi​
-
+[Designing Data Intensive Applications](https://amzn.to/3fxgOLm​)
